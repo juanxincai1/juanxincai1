@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @juanxincai1
-- 👀 I’m interested in Microgrid optimal dispatching.
+- 👋 Hi, I’m @Lee-min
+- 👀 I am interested in research on optimizing the operation of microgrids..
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me with 1029347098@qq.com
