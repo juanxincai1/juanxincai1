@@ -2,7 +2,7 @@
 - 👀 I am interested in research on optimizing the operation of microgrids..
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me with 1029347098@qq.com
+
 
 <!---
 juanxincai1/juanxincai1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
